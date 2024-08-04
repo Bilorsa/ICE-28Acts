@@ -25,7 +25,7 @@ public class Exercise3 {
             }
         }
 
-        // Display the counts
+        // Display the number of counts
         System.out.println("Occurrences of numbers:");
 
         for (int i = 1; i <= 100; i++) {

@@ -58,7 +58,7 @@ public class Main {
                 }
             }
 
-            // Display the grades
+            // Display the student grades
             System.out.println("\nGrades:");
             for (int i = 0; i < numStudents; i++) {
                 char grade = getGrade(scores[i], bestScore);
